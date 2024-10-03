@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /custom2/robots/en/latest/
+Allow: /custom2/robots/en/stable/
+Disallow: /
