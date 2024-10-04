@@ -1,5 +1,11 @@
 # Configuration file for the Sphinx documentation builder.
 
+import os
+import sys
+
+# Add your project's root directory to the sys.path to find your modules
+sys.path.insert(0, os.path.abspath('../../'))
+
 # -- Project information
 
 project = 'rtd_tests_sub'
