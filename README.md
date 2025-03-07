@@ -17,4 +17,4 @@ make html
 open ./build/html/index.html
 ```
 
-Rtd page: https://readthedocs.org/projects/rtd-tests-subproject/
+RTD page: https://app.readthedocs.org/projects/rtd-tests-subproject/
